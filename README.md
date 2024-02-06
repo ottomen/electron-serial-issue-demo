@@ -1,4 +1,4 @@
-# electrton-serial-issue-demo
+# electron-serial-issue-demo
 
 Demo of the issue with serial port on Electron on MacOS
 for [https://github.com/electron/electron/issues/41220](https://github.com/electron/electron/issues/41220).
